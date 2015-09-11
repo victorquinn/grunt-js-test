@@ -41,7 +41,7 @@
     "body-parser": "^1.6.5",
     "chai": "*",
     "express": "4.x",
-    "grunt-lib-phantomjs": "^0.7.0",
+    "grunt-lib-phantomjs": "^0.7.1",
     "istanbul": "^0.3.0",
     "jade": "1.x",
     "lodash": "^2.4.1",
